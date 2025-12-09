@@ -30,12 +30,6 @@ Key features include:
 
 The dataset contains both **numerical** and **categorical** variables.
 
-## Project Structure
-customer-churn-prediction/
-│
-├── churn_analysis.ipynb      # Main Jupyter notebook
-└── README.md                 # Project documentation
-
 ## Methods
 
 ### 1. **Data Cleaning**
